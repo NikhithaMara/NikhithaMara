@@ -9,4 +9,4 @@ I have transitioned into cloud computing and data science, with a passion for bu
 🌱 I recently earned my AWS Certified Solutions Architect certification, which strengthened my knowledge of key AWS services including EC2, EBS, S3, DynamoDB, Lambda, Serverless Architecture, ECS, CloudFormation (Infrastructure as Code), High Availability, Scalability, Application and Network Load Balancers, Cost Optimization, Security, IAM, Cognito, and SageMaker.
   
 - 📫 Let’s connect:
-   Feel free to reach out via email(nikithareddymara@gmail.com) or connect with me on LinkedIn(https://www.linkedin.com/in/nikhithamara)
+   Feel free to reach out via email (nikithareddymara@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/nikhithamara)

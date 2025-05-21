@@ -5,6 +5,8 @@ My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Informat
 I have transitioned into cloud computing and data science, with a passion for building scalable cloud-based solutions and extracting insights from data. I am skilled in AWS architecture and Python-based data analytics, enjoying the blend of these disciplines to solve real-world challenges. As an AWS Certified Solutions Architect, I am actively seeking opportunities in Cloud Engineering, Solutions Architecture,and Data Analytics—where I can bridge cloud infrastructure with intelligent, data-driven decision-making.
 
 🌱 I recently earned my AWS Certified Solutions Architect certification, which strengthened my knowledge of key AWS services including EC2, EBS, S3, DynamoDB, Lambda, Serverless Architecture, ECS, CloudFormation (Infrastructure as Code), High Availability, Scalability, Application and Network Load Balancers, Cost Optimization, Security, IAM, Cognito, and SageMaker.
+
+AWS Certified solutions Architect: https://www.credly.com/badges/8deffb89-a662-41d2-9819-e2f04da4114b
   
 - 📫 Let’s connect:
    Feel free to reach out via email (nikithareddymara@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/nikhithamara)

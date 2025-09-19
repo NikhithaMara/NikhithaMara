@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Information Systems at the University of Texas at Arlington. I have over 5 years of experience as an Application Developer at IBM, specializing in SAP ABAP for the Volkswagen client.
+My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Information Systems at the University of Texas at Arlington. I have over 5 years of experience as an Application Developer at IBM, as an Application Developer.
 
 As an AWS Certified Solutions Architect, I’m transitioning into DevOps and Cloud Engineering because I’m excited by the power of automation and cloud tech to speed up software delivery and simplify infrastructure..
 

@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Information Systems at the University of Texas at Arlington. I have over 5 years of experience as an Application Developer at IBM, as an Application Developer.
+My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Information Systems at the University of Texas at Arlington. I have over 5 years of experience as an Application Developer at IBM, and also as an Devops Engineer.
 
-As an AWS Certified Solutions Architect, I’m transitioning into DevOps and Cloud Engineering because I’m excited by the power of automation and cloud tech to speed up software delivery and simplify infrastructure..
+As an AWS Certified Solutions Architect, I’m into DevOps and Cloud Engineering because I’m excited by the power of automation and cloud tech to speed up software delivery and simplify infrastructure..
 
 🌱 I recently earned my AWS Certified Solutions Architect certification, which strengthened my knowledge of key AWS services including EC2, EBS, S3, DynamoDB, Lambda, Serverless Architecture, ECS, CloudFormation (Infrastructure as Code), High Availability, Scalability, Application and Network Load Balancers, Cost Optimization, Security, IAM, Cognito, and SageMaker.
 

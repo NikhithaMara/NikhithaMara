@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Information Systems at the University of Texas at Arlington. I have over 5 years of experience as an Application Developer at IBM, and also as an Devops Engineer.
+My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Information Systems at the University of Texas at Arlington. I have over 5 years of experience as an Application Developer at IBM, and also 2 years as an Devops Engineer.
 
 As an AWS Certified Solutions Architect, I’m into DevOps and Cloud Engineering because I’m excited by the power of automation and cloud tech to speed up software delivery and simplify infrastructure..
 

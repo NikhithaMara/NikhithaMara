@@ -1,12 +1,26 @@
-## Hi there 👋
+## Hi, I’m Nikhitha Mara 👋
 
-My name is Nikhitha Mara, and I’m currently pursuing my Master’s in Information Systems at the University of Texas at Arlington. I have over 5 years of experience as an Application Developer at IBM, and also 2 years as an Devops Engineer.
+🎓 Master’s in Information Systems – University of Texas at Arlington
+💼 6+ years as an Application Developer and Associate Systems Engineering at IBM 
+☁️ AWS Certified Solutions Architect | HashiCorp Certified Terraform Associate | Certified Kubernetes Administartor
 
-As an AWS Certified Solutions Architect, I’m into DevOps and Cloud Engineering because I’m excited by the power of automation and cloud tech to speed up software delivery and simplify infrastructure..
+I specialize in DevOps and Cloud Engineering, with hands-on experience in building automated, scalable, and highly available systems on AWS. My background in application development and systems engineering allows me to bridge development and operations effectively.
 
-🌱 I recently earned my AWS Certified Solutions Architect certification, which strengthened my knowledge of key AWS services including EC2, EBS, S3, DynamoDB, Lambda, Serverless Architecture, ECS, CloudFormation (Infrastructure as Code), High Availability, Scalability, Application and Network Load Balancers, Cost Optimization, Security, IAM, Cognito, and SageMaker.
+🔧 What I Work With
 
-AWS Certified solutions Architect: https://www.credly.com/badges/8deffb89-a662-41d2-9819-e2f04da4114b
+Cloud: AWS (EC2, EKS, EBS, S3, DynamoDB, Lambda, ECS)
+
+Infrastructure as Code: Terraform, CloudFormation
+
+Containers & Orchestration: Docker, Kubernetes (EKS)
+
+CI/CD: GitHub Actions, ArgoCD
+
+Monitoring: Prometheus, Grafana
+
+Security & IAM: IAM, Cognito, Load Balancers
+
+I’m passionate about automation, cloud-native architecture, and optimizing infrastructure for performance, reliability, and cost efficiency
   
 - 📫 Let’s connect:
-   Feel free to reach out via email (nikithareddymara@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/nikhithamara)
+   Feel free to reach out via email (nikhithamarareddy@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/nikhithamara)

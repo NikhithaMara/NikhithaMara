@@ -7,6 +7,7 @@
 I specialize in DevOps and Cloud Engineering, with hands-on experience in building automated, scalable, and highly available systems on AWS. My background in application   development and systems engineering allows me to bridge development and operations effectively.
 
 🔧 Tech Stack
+
 Scripting: Python, Bash scripting, SQL, SAP ABAP  
 
 Infrastructure as Code (IaC): Terraform, Ansible

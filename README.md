@@ -4,7 +4,7 @@
 
 💼 6+ years as an Application Developer and Associate Systems Engineer at IBM 
 
-I’m passionate about DevOps and cloud engineering, specializing in automation, CI/CD pipelines, system monitoring, and designing scalable, reliable, and high-quality infrastructure.
+I’m passionate about automating build and deployment workflows, implementing monitoring to detect issues early, and improving system stability and release quality.
 
 # 🔧 Tech Stack
 

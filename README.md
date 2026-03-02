@@ -1,7 +1,9 @@
 ## Hi, I’m Nikhitha Mara 👋
 
 🎓 Master’s in Information Systems – University of Texas at Arlington
+
 💼 6+ years as an Application Developer and Associate Systems Engineering at IBM 
+
 ☁️ AWS Certified Solutions Architect | HashiCorp Certified Terraform Associate | Certified Kubernetes Administartor
 
 I specialize in DevOps and Cloud Engineering, with hands-on experience in building automated, scalable, and highly available systems on AWS. My background in application development and systems engineering allows me to bridge development and operations effectively.

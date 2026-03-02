@@ -2,7 +2,7 @@
 
 🎓 Master’s in Information Systems – University of Texas at Arlington
 
-💼 6+ years as an Application Developer and Associate Systems Engineering at IBM 
+💼 6+ years as an Application Developer and Associate Systems Engineer at IBM 
 
 ☁️ AWS Certified Solutions Architect | HashiCorp Certified Terraform Associate | Certified Kubernetes Administartor
 
